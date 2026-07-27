@@ -90,7 +90,7 @@ def main():
         messages=[{"role": "user", "content": prompt}]
     )
     
-    digest = response.message.content
+    digest = response['message']['content']
     
     # Build a unique filename using today's date and time
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
