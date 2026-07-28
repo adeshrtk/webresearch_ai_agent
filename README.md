@@ -1,6 +1,6 @@
 # Web Research AI Agent
 
-This project is a personal AI research assistant that searches the web, gathers source content, and generates a polished markdown digest using a local Ollama model. It is inspired by the same approach shown in the freeCodeCamp tutorial on building a web research agent with Ollama and Qwen, but it is kept intentionally simple and easy to extend.
+This project is a personal AI research assistant that searches the web, gathers source content, and generates a polished markdown digest using a local Ollama model. It is inspired by the approach of building a web research agent with Ollama and Qwen.
 
 ## Why this project exists
 
